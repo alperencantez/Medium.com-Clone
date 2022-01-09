@@ -1,0 +1,21 @@
+body {
+    font-family: 'PT Serif', sans-serif;
+}
+.bg-yellow {
+    background-color: #ffc017;
+}
+.border-bottom-dark {
+    border-bottom: 1px solid #222;
+}
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+.articles-genre {
+    border-radius: 50px;
+    border-style: none;
+    background-color: rgb(235, 230, 230);
+    color: rgb(117, 117, 117);
+}
+.reading-font {
+    font-family: Arial, Helvetica, sans-serif;
+}
